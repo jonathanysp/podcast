@@ -30,10 +30,8 @@
 </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
-<content:encoded>
-<![CDATA[ Don Cheadle, actor, joins us along with panelists Mo Rocca, Faith Salie, and Hari Kondabolu. ]]>
-</content:encoded>
-<enclosure url="http://silo:8080/wait.mp3" length="47731071" type="audio/mpeg"/>
+<link>http://silo:8080/wait.mp3</link>
+<guid>http://silo:8080/wait.mp3</guid>
 </item>
    
 </channel>
