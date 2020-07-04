@@ -26,8 +26,8 @@
   <itunes:summary>Weekend Edition - Sat Jul 4, 2020 - 1</itunes:summary>
   <itunes:explicit>no</itunes:explicit>
   <itunes:episodeType>full</itunes:episodeType>
-  <enclosure url="http://silo:8080/weekend-edition/2020/07/04/3.mp3" length="3600" type="audio/mpeg"/>
-  <guid>http://silo:8080/weekend-edition/2020/07/04/3.mp3</guid>
+  <enclosure url="http://silo:8080/weekend-edition/2020/07/04/1.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/07/04/1.mp3</guid>
 </item>
 
 <item>
