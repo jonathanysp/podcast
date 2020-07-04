@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>All Things Considered - Fri Jul 3, 2020 - 1</title>n
+  <description>All Things Considered - Fri Jul 3, 2020 - 1</description>
+  <pubDate>Fri, 03 Jul 2020 23:21:42 -0700</pubDate>
+  <itunes:title>All Things Considered - Fri Jul 3, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>All Things Considered - Fri Jul 3, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/all-things-considered/2020/07/03/1.mp3" length="60" type="audio/mpeg"/>
+  <guid>http://silo:8080/all-things-considered/2020/07/03/1.mp3</guid>
+</item>
+
+<item>
   <title>Don Cheadle</title>
   <description>Description</description>
   <pubDate>Sat, 27 Jun 2020 12:00:00 -0400</pubDate>
