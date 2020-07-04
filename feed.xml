@@ -15,23 +15,32 @@
 <itunes:image href="https://objective-boyd-8f5906.netlify.app/icon.png" />
 <itunes:category text="News">
     <itunes:category text="Daily News"/>
+
+<item>
+  <title>All Things Considered - Fri Jul 3, 2020 - 1</title>n
+  <description>All Things Considered - Fri Jul 3, 2020 - 1</description>
+  <pubDate>Fri, 03 Jul 2020 20:57:48 -0700</pubDate>
+  <itunes:title>All Things Considered - Fri Jul 3, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>All Things Considered - Fri Jul 3, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/all-things-considered/2020/07/03/1.mp3" length="60" type="audio/mpeg"/>
+  <guid>http://silo:8080/all-things-considered/2020/07/03/1.mp3</guid>
+</item>
 </itunes:category>
 
 <item>
-<title>Don Cheadle</title>
-<description>
-Don Cheadle, actor, joins us along with panelists Mo Rocca, Faith Salie, and Hari Kondabolu.>
-</description>
-<pubDate>Sat, 27 Jun 2020 12:00:00 -0400</pubDate>
-<itunes:title>Don Cheadle</itunes:title>
-<itunes:author>NPR</itunes:author>
-<itunes:summary>
-Don Cheadle, actor, joins us along with panelists Mo Rocca, Faith Salie, and Hari Kondabolu.
-</itunes:summary>
-<itunes:explicit>no</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-<enclosure url="http://silo:8080/wait.mp3" length="47731071" type="audio/mpeg"></enclosure>
-<guid>http://silo:8080/wait.mp3</guid>
+  <title>Don Cheadle</title>
+  <description>Description</description>
+  <pubDate>Sat, 27 Jun 2020 12:00:00 -0400</pubDate>
+  <itunes:title>Don Cheadle</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Summary</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/wait.mp3" length="47731071" type="audio/mpeg"/>
+  <guid>http://silo:8080/wait.mp3</guid>
 </item>
    
 </channel>
