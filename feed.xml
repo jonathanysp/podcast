@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sun Jul 5, 2020 - 5</title>
+  <description>Weekend Edition - Sun Jul 5, 2020 - 5</description>
+  <pubDate>Sun, 05 Jul 2020 09:00:02 -0700</pubDate>
+  <itunes:title>Weekend Edition - Sun Jul 5, 2020 - 5</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sun Jul 5, 2020 - 5</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/07/05/5.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/07/05/5.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sun Jul 5, 2020 - 4</title>
   <description>Weekend Edition - Sun Jul 5, 2020 - 4</description>
   <pubDate>Sun, 05 Jul 2020 08:00:02 -0700</pubDate>
