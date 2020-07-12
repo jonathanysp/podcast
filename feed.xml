@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sun Jul 12, 2020 - 3</title>
+  <description>Weekend Edition - Sun Jul 12, 2020 - 3</description>
+  <pubDate>Sun, 12 Jul 2020 07:00:04 -0700</pubDate>
+  <itunes:title>Weekend Edition - Sun Jul 12, 2020 - 3</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sun Jul 12, 2020 - 3</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/07/12/3.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/07/12/3.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sun Jul 12, 2020 - 2</title>
   <description>Weekend Edition - Sun Jul 12, 2020 - 2</description>
   <pubDate>Sun, 12 Jul 2020 06:00:02 -0700</pubDate>
