@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Tue Jul 21, 2020 - 3</title>
+  <description>Morning Edition - Tue Jul 21, 2020 - 3</description>
+  <pubDate>Tue, 21 Jul 2020 06:00:03 -0700</pubDate>
+  <itunes:title>Morning Edition - Tue Jul 21, 2020 - 3</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Tue Jul 21, 2020 - 3</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/07/21/3.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/07/21/3.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Tue Jul 21, 2020 - 2</title>
   <description>Morning Edition - Tue Jul 21, 2020 - 2</description>
   <pubDate>Tue, 21 Jul 2020 04:00:02 -0700</pubDate>
