@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Thu Aug 6, 2020 - 2</title>
+  <description>Morning Edition - Thu Aug 6, 2020 - 2</description>
+  <pubDate>Thu, 06 Aug 2020 04:00:02 -0700</pubDate>
+  <itunes:title>Morning Edition - Thu Aug 6, 2020 - 2</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Thu Aug 6, 2020 - 2</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/08/06/2.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/08/06/2.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Thu Aug 6, 2020 - 1</title>
   <description>Morning Edition - Thu Aug 6, 2020 - 1</description>
   <pubDate>Thu, 06 Aug 2020 02:00:03 -0700</pubDate>
