@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sun Aug 9, 2020 - 1</title>
+  <description>Weekend Edition - Sun Aug 9, 2020 - 1</description>
+  <pubDate>Sun, 09 Aug 2020 05:00:02 -0700</pubDate>
+  <itunes:title>Weekend Edition - Sun Aug 9, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sun Aug 9, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/08/09/1.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/08/09/1.mp3</guid>
+</item>
+
+<item>
   <title>Weekend All Things Considered - Sat Aug 8, 2020 - 1</title>
   <description>Weekend All Things Considered - Sat Aug 8, 2020 - 1</description>
   <pubDate>Sat, 08 Aug 2020 17:00:02 -0700</pubDate>
