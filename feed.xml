@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Mon Aug 17, 2020 - 3</title>
+  <description>Morning Edition - Mon Aug 17, 2020 - 3</description>
+  <pubDate>Mon, 17 Aug 2020 06:00:03 -0700</pubDate>
+  <itunes:title>Morning Edition - Mon Aug 17, 2020 - 3</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Mon Aug 17, 2020 - 3</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/08/17/3.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/08/17/3.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Mon Aug 17, 2020 - 2</title>
   <description>Morning Edition - Mon Aug 17, 2020 - 2</description>
   <pubDate>Mon, 17 Aug 2020 04:00:03 -0700</pubDate>
