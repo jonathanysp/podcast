@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Mon Aug 17, 2020 - 1</title>
+  <description>Morning Edition - Mon Aug 17, 2020 - 1</description>
+  <pubDate>Mon, 17 Aug 2020 02:00:03 -0700</pubDate>
+  <itunes:title>Morning Edition - Mon Aug 17, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Mon Aug 17, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/08/17/1.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/08/17/1.mp3</guid>
+</item>
+
+<item>
   <title>Weekend All Things Considered - Sun Aug 16, 2020 - 1</title>
   <description>Weekend All Things Considered - Sun Aug 16, 2020 - 1</description>
   <pubDate>Sun, 16 Aug 2020 17:00:02 -0700</pubDate>
