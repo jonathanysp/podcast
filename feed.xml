@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sun Aug 23, 2020 - 2</title>
+  <description>Weekend Edition - Sun Aug 23, 2020 - 2</description>
+  <pubDate>Sun, 23 Aug 2020 06:00:02 -0700</pubDate>
+  <itunes:title>Weekend Edition - Sun Aug 23, 2020 - 2</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sun Aug 23, 2020 - 2</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/08/23/2.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/08/23/2.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sun Aug 23, 2020 - 1</title>
   <description>Weekend Edition - Sun Aug 23, 2020 - 1</description>
   <pubDate>Sun, 23 Aug 2020 05:00:02 -0700</pubDate>
