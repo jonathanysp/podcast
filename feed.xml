@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend All Things Considered - Sun Aug 30, 2020 - 1</title>
+  <description>Weekend All Things Considered - Sun Aug 30, 2020 - 1</description>
+  <pubDate>Sun, 30 Aug 2020 17:00:02 -0700</pubDate>
+  <itunes:title>Weekend All Things Considered - Sun Aug 30, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend All Things Considered - Sun Aug 30, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-all-things-considered/2020/08/30/1.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-all-things-considered/2020/08/30/1.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sun Aug 30, 2020 - 5</title>
   <description>Weekend Edition - Sun Aug 30, 2020 - 5</description>
   <pubDate>Sun, 30 Aug 2020 09:00:02 -0700</pubDate>
