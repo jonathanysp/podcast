@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Wed Sep 16, 2020 - 4</title>
+  <description>Morning Edition - Wed Sep 16, 2020 - 4</description>
+  <pubDate>Wed, 16 Sep 2020 08:00:02 -0700</pubDate>
+  <itunes:title>Morning Edition - Wed Sep 16, 2020 - 4</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Wed Sep 16, 2020 - 4</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/09/16/4.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/09/16/4.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Wed Sep 16, 2020 - 3</title>
   <description>Morning Edition - Wed Sep 16, 2020 - 3</description>
   <pubDate>Wed, 16 Sep 2020 06:00:02 -0700</pubDate>
