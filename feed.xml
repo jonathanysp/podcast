@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Morning Edition - Tue Sep 29, 2020 - 3</title>
+  <description>Morning Edition - Tue Sep 29, 2020 - 3</description>
+  <pubDate>Tue, 29 Sep 2020 07:00:02 -0700</pubDate>
+  <itunes:title>Morning Edition - Tue Sep 29, 2020 - 3</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Morning Edition - Tue Sep 29, 2020 - 3</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/morning-edition/2020/09/29/3.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/morning-edition/2020/09/29/3.mp3</guid>
+</item>
+
+<item>
   <title>All Things Considered - Mon Sep 28, 2020 - 1</title>
   <description>All Things Considered - Mon Sep 28, 2020 - 1</description>
   <pubDate>Mon, 28 Sep 2020 16:30:02 -0700</pubDate>
