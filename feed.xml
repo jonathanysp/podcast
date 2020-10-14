@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>All Things Considered - Tue Oct 13, 2020 - 1</title>
+  <description>All Things Considered - Tue Oct 13, 2020 - 1</description>
+  <pubDate>Tue, 13 Oct 2020 16:30:02 -0700</pubDate>
+  <itunes:title>All Things Considered - Tue Oct 13, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>All Things Considered - Tue Oct 13, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/all-things-considered/2020/10/13/1.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/all-things-considered/2020/10/13/1.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Tue Oct 13, 2020 - 4</title>
   <description>Morning Edition - Tue Oct 13, 2020 - 4</description>
   <pubDate>Tue, 13 Oct 2020 08:00:02 -0700</pubDate>
