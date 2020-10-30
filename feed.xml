@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>All Things Considered - Thu Oct 29, 2020 - 1</title>
+  <description>All Things Considered - Thu Oct 29, 2020 - 1</description>
+  <pubDate>Thu, 29 Oct 2020 16:30:02 -0700</pubDate>
+  <itunes:title>All Things Considered - Thu Oct 29, 2020 - 1</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>All Things Considered - Thu Oct 29, 2020 - 1</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/all-things-considered/2020/10/29/1.mp3" length="7200" type="audio/mpeg"/>
+  <guid>http://silo:8080/all-things-considered/2020/10/29/1.mp3</guid>
+</item>
+
+<item>
   <title>Morning Edition - Thu Oct 29, 2020 - 4</title>
   <description>Morning Edition - Thu Oct 29, 2020 - 4</description>
   <pubDate>Thu, 29 Oct 2020 08:00:02 -0700</pubDate>
