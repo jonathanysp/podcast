@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sat Oct 31, 2020 - 4</title>
+  <description>Weekend Edition - Sat Oct 31, 2020 - 4</description>
+  <pubDate>Sat, 31 Oct 2020 08:00:03 -0700</pubDate>
+  <itunes:title>Weekend Edition - Sat Oct 31, 2020 - 4</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sat Oct 31, 2020 - 4</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/10/31/4.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/10/31/4.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sat Oct 31, 2020 - 3</title>
   <description>Weekend Edition - Sat Oct 31, 2020 - 3</description>
   <pubDate>Sat, 31 Oct 2020 07:00:06 -0700</pubDate>
