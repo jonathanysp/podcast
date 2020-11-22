@@ -18,6 +18,19 @@
 </itunes:category>
 
 <item>
+  <title>Weekend Edition - Sun Nov 22, 2020 - 5</title>
+  <description>Weekend Edition - Sun Nov 22, 2020 - 5</description>
+  <pubDate>Sun, 22 Nov 2020 09:00:02 -0800</pubDate>
+  <itunes:title>Weekend Edition - Sun Nov 22, 2020 - 5</itunes:title>
+  <itunes:author>NPR</itunes:author>
+  <itunes:summary>Weekend Edition - Sun Nov 22, 2020 - 5</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <enclosure url="http://silo:8080/weekend-edition/2020/11/22/5.mp3" length="3600" type="audio/mpeg"/>
+  <guid>http://silo:8080/weekend-edition/2020/11/22/5.mp3</guid>
+</item>
+
+<item>
   <title>Weekend Edition - Sun Nov 22, 2020 - 4</title>
   <description>Weekend Edition - Sun Nov 22, 2020 - 4</description>
   <pubDate>Sun, 22 Nov 2020 08:00:02 -0800</pubDate>
